@@ -1,0 +1,18 @@
+body{
+  position: fixed;
+  font: arial;
+  font-size: 12;
+
+}
+h1{
+  font-size: 24;
+  text-align:center;
+
+}
+/*.picture{*/
+      width: 300px;
+      border: 25px solid green;
+      padding: 25px;
+      margin: 25px;
+
+}
